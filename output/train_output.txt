@@ -1,0 +1,69 @@
+Epoch 1/500
+399/399 [==============================] - 150s 367ms/step - loss: 0.4276 - sparse_categorical_accuracy: 0.8717 - val_loss: 0.3151 - val_sparse_categorical_accuracy: 0.9270
+Epoch 2/500
+399/399 [==============================] - 132s 330ms/step - loss: 0.1544 - sparse_categorical_accuracy: 0.9684 - val_loss: 0.1365 - val_sparse_categorical_accuracy: 0.9781
+Epoch 3/500
+399/399 [==============================] - 130s 326ms/step - loss: 0.1132 - sparse_categorical_accuracy: 0.9776 - val_loss: 0.1533 - val_sparse_categorical_accuracy: 0.9707
+Epoch 4/500
+399/399 [==============================] - 130s 326ms/step - loss: 0.1205 - sparse_categorical_accuracy: 0.9764 - val_loss: 0.1010 - val_sparse_categorical_accuracy: 0.9790
+Epoch 5/500
+399/399 [==============================] - 130s 326ms/step - loss: 0.0892 - sparse_categorical_accuracy: 0.9833 - val_loss: 0.0972 - val_sparse_categorical_accuracy: 0.9858
+Epoch 6/500
+399/399 [==============================] - 130s 326ms/step - loss: 0.1142 - sparse_categorical_accuracy: 0.9779 - val_loss: 0.1313 - val_sparse_categorical_accuracy: 0.9793
+Epoch 7/500
+399/399 [==============================] - 130s 326ms/step - loss: 0.0859 - sparse_categorical_accuracy: 0.9839 - val_loss: 0.1256 - val_sparse_categorical_accuracy: 0.9766
+Epoch 8/500
+399/399 [==============================] - 130s 326ms/step - loss: 0.0897 - sparse_categorical_accuracy: 0.9827 - val_loss: 0.0784 - val_sparse_categorical_accuracy: 0.9841
+Epoch 9/500
+399/399 [==============================] - 136s 341ms/step - loss: 0.0882 - sparse_categorical_accuracy: 0.9829 - val_loss: 0.0768 - val_sparse_categorical_accuracy: 0.9861
+Epoch 10/500
+399/399 [==============================] - 137s 342ms/step - loss: 0.0874 - sparse_categorical_accuracy: 0.9824 - val_loss: 0.1575 - val_sparse_categorical_accuracy: 0.9750
+Epoch 11/500
+399/399 [==============================] - 130s 325ms/step - loss: 0.0856 - sparse_categorical_accuracy: 0.9831 - val_loss: 0.1637 - val_sparse_categorical_accuracy: 0.9740
+Epoch 12/500
+399/399 [==============================] - 130s 325ms/step - loss: 0.0756 - sparse_categorical_accuracy: 0.9853 - val_loss: 0.0599 - val_sparse_categorical_accuracy: 0.9918
+Epoch 13/500
+399/399 [==============================] - 130s 325ms/step - loss: 0.0918 - sparse_categorical_accuracy: 0.9813 - val_loss: 0.0835 - val_sparse_categorical_accuracy: 0.9833
+Epoch 14/500
+399/399 [==============================] - 130s 326ms/step - loss: 0.0979 - sparse_categorical_accuracy: 0.9799 - val_loss: 0.1189 - val_sparse_categorical_accuracy: 0.9698
+Epoch 15/500
+399/399 [==============================] - 130s 325ms/step - loss: 0.0976 - sparse_categorical_accuracy: 0.9811 - val_loss: 0.0802 - val_sparse_categorical_accuracy: 0.9873
+Epoch 16/500
+399/399 [==============================] - 130s 325ms/step - loss: 0.0699 - sparse_categorical_accuracy: 0.9872 - val_loss: 0.0625 - val_sparse_categorical_accuracy: 0.9871
+Epoch 17/500
+399/399 [==============================] - 131s 328ms/step - loss: 0.0692 - sparse_categorical_accuracy: 0.9866 - val_loss: 0.1073 - val_sparse_categorical_accuracy: 0.9781
+
+Epoch 00017: ReduceLROnPlateau reducing learning rate to 0.004999999888241291.
+Epoch 18/500
+399/399 [==============================] - 131s 329ms/step - loss: 0.0535 - sparse_categorical_accuracy: 0.9895 - val_loss: 0.0551 - val_sparse_categorical_accuracy: 0.9893
+Epoch 19/500
+399/399 [==============================] - 131s 327ms/step - loss: 0.0356 - sparse_categorical_accuracy: 0.9927 - val_loss: 0.3221 - val_sparse_categorical_accuracy: 0.9577
+Epoch 20/500
+399/399 [==============================] - 130s 326ms/step - loss: 0.0517 - sparse_categorical_accuracy: 0.9887 - val_loss: 0.0589 - val_sparse_categorical_accuracy: 0.9891
+Epoch 21/500
+399/399 [==============================] - 130s 326ms/step - loss: 0.0359 - sparse_categorical_accuracy: 0.9929 - val_loss: 0.0499 - val_sparse_categorical_accuracy: 0.9921
+Epoch 22/500
+399/399 [==============================] - 130s 326ms/step - loss: 0.0282 - sparse_categorical_accuracy: 0.9944 - val_loss: 0.0508 - val_sparse_categorical_accuracy: 0.9919
+Epoch 23/500
+399/399 [==============================] - 130s 326ms/step - loss: 0.0287 - sparse_categorical_accuracy: 0.9943 - val_loss: 0.0517 - val_sparse_categorical_accuracy: 0.9919
+Epoch 24/500
+399/399 [==============================] - 130s 326ms/step - loss: 0.0270 - sparse_categorical_accuracy: 0.9940 - val_loss: 0.0595 - val_sparse_categorical_accuracy: 0.9909
+Epoch 25/500
+399/399 [==============================] - 130s 326ms/step - loss: 0.0353 - sparse_categorical_accuracy: 0.9931 - val_loss: 0.0682 - val_sparse_categorical_accuracy: 0.9922
+Epoch 26/500
+399/399 [==============================] - 129s 324ms/step - loss: 0.0324 - sparse_categorical_accuracy: 0.9937 - val_loss: 0.0848 - val_sparse_categorical_accuracy: 0.9897
+
+Epoch 00026: ReduceLROnPlateau reducing learning rate to 0.0024999999441206455.
+Epoch 27/500
+399/399 [==============================] - 130s 326ms/step - loss: 0.0186 - sparse_categorical_accuracy: 0.9962 - val_loss: 0.0599 - val_sparse_categorical_accuracy: 0.9934
+Epoch 28/500
+399/399 [==============================] - 130s 325ms/step - loss: 0.0144 - sparse_categorical_accuracy: 0.9973 - val_loss: 0.0645 - val_sparse_categorical_accuracy: 0.9923
+Epoch 29/500
+399/399 [==============================] - 131s 328ms/step - loss: 0.0152 - sparse_categorical_accuracy: 0.9970 - val_loss: 0.0571 - val_sparse_categorical_accuracy: 0.9936
+Epoch 30/500
+399/399 [==============================] - 130s 327ms/step - loss: 0.0112 - sparse_categorical_accuracy: 0.9975 - val_loss: 0.0665 - val_sparse_categorical_accuracy: 0.9931
+Epoch 31/500
+399/399 [==============================] - 130s 326ms/step - loss: 0.0129 - sparse_categorical_accuracy: 0.9970 - val_loss: 0.0718 - val_sparse_categorical_accuracy: 0.9914
+Epoch 32/500
+399/399 [==============================] - 130s 326ms/step - loss: 0.0105 - sparse_categorical_accuracy: 0.9976 - val_loss: 0.0723 - val_sparse_categorical_accuracy: 0.9932
+<keras.callbacks.History at 0x7f604ba3a650>
